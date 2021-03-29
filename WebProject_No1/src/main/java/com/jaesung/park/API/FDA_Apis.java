@@ -18,4 +18,3 @@ public class FDA_Apis {
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
  */
-*/
